@@ -15,8 +15,10 @@ Application made in NetBeance IDE
 Application functions: Database login, Database registration, Parcel/customer registration, parcel control, adding, deleting, changing a parcel and client.
 
 ![login!](img/login.png)
+
 Login form
 
 
-![parcel control!](img/parcel control.png)
+![parcel_control!](img/parcel_control.png)
+
 Mails control form
